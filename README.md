@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on the urafro e-commerce web engine
+- 🔭 I’m currently working on urafro's e-commerce web engine
 - 🌱 Also learning ReactJS
 - 🤔 If you can replicate a design like <a href="https://morning-ocean-31470.herokuapp.com/" target="_blank">this</a> with pure CSS or any preprosessor in two days or less, HMU to collaborate on ReactJS front-end development for <a href="http://www.urafro.com/ecommerce/sme" target="_blank">urafro ecommerce</a> web design templates
 - 💬 Ask me about what urafro is if the copy on <a href="http://www.urafro.com" target="_blank">urafro.com</a> is a bit vague for your liking
